@@ -1,0 +1,7 @@
+E:\galledialogue\galledialogue\bin\galledialogue.dll
+E:\galledialogue\galledialogue\bin\galledialogue.pdb
+E:\galledialogue\galledialogue\bin\Telerik.Web.UI.dll
+E:\galledialogue\galledialogue\bin\Telerik.Web.UI.Skins.dll
+E:\galledialogue\galledialogue\bin\Telerik.Web.UI.xml
+E:\galledialogue\galledialogue\obj\Debug\galledialogue.dll
+E:\galledialogue\galledialogue\obj\Debug\galledialogue.pdb
